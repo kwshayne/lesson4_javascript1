@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(02 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Shayne Alongi)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project taught us how to code a monthly expense calculator using Javascript. We figured out how to calculate percentages expenses and total expenses with percentages and how to clear the form)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
